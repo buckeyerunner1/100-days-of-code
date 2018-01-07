@@ -15,3 +15,5 @@ After Googling terminal commands to copy and paste my SSH key, since I still cou
 
 ## R1D4
 I wish I could say I did some actual coding today. I had every intention to. Instead, I spent much of my time configuring my new Netgear router (R8000P). It wasn't all just plug and play to start off though. I ended up having to change the SSID and password. I did managed to read a little about some newbie coders over on Medium. I finally ended the day logging into my VM and started the Ruby sample app project to test the installations. 
+## R1D5
+Oh baby that was fun today. I test my ruby and rails installations and pushed the test app to heroku, where I actually got to see it deployed! I know I was just following instructions, but the fact that I was able to do it and see something go from start to finish was awesome. If it wasn't for the fact that I'm tired, I'd keep going with another lesson. But alas, there will be tomorrow! 
