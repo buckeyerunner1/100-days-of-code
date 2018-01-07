@@ -1,10 +1,17 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on January 2, 2018.
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+I spent the majority of my time focusing on the installing and setting up my Virtual Machine with a Linux (Ubuntu) installation. 
 
 ### R1D2
+Night 2 I started the Installfest for the start of the Web Developer portion of The Odin Project: Rails, RVM, Ruby, etc. I also set up Git and created my SSH key to connect my Heroku and Github accounts. Once it was created though, I was unable to find the folder on the VM in my /home/pstoicoiu/ folder. I should have been able to see the /home/pstoicoiu/.ssh folder, but for the life of me I couldn't access it and it was not visible, but the terminal kept saying I had a key installed. I gave up after too long and went to bed. 
+
+### R1D3
+After Googling terminal commands to copy and paste my SSH key, since I still couldn't see it, I managed to find a command to open the file location instead. This magically made it appear in the folder too so that I could finally open it and copy the key. I continued my setup until it was complete and stopped at the step where you create a sample rails app to show the installations were a success. 
+
+## R1D4
+I wish I could say I did some actual coding today. I had every intention to. Instead, I spent much of my time configuring my new Netgear router (R8000P). It wasn't all just plug and play to start off though. I ended up having to change the SSID and password. I did managed to read a little about some newbie coders over on Medium. I finally ended the day logging into my VM and started the Ruby sample app project to test the installations. 
