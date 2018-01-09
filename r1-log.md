@@ -21,3 +21,6 @@ Oh baby that was fun today. I test my ruby and rails installations and pushed th
 
 ## R1D6
 Started the "Git Basics" section on @theodinprject. Read a chapter on version control and the history of Git, watched a few Youtube videos on Git and Github and saw enough redudant material to drill in my head! Tomorrow, I practice with some Git Basics in Terminal!
+
+## R1D7
+One week in the books! Tonight was a bit different than my previous nights. I spent much of my evening working on the website I maintain for our town's youth sports. I made a Google Form for our baseball/softball registration. I was then able to embed it into our website. take a look for yourself and leave me feedback! http://bit.ly/2AHVSv3 
