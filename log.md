@@ -14,9 +14,9 @@ and started fresh from the beginning. This time, I'm going to finish.
 
 **Today's Activities**: Where to start. After reading several articles, reading reddit and talking to some fellow employees in the 
 software development field (I am in Accounting/Control), I realized that in order for me to make it through the full 100+ days, I need
-to have a plan to go along with my goal. So aside from keeping my daily log, I'm also creating an outline of what my self-teaching plan
-will look like to keep me on track. There will be some fluidity to the plan so that I can change directions/programs on the fly
-should something come up. 
+to have a plan to go along with my goal. I started out on FCC months back then decided to start The Odin Project, so aside from keeping 
+my daily log, I'm also creating an outline of what my self-teaching plan will look like to keep me on track. There will be some fluidity
+to the plan so that I can change directions/programs on the fly, should something come up. 
 
 **Thoughts:** 
 
