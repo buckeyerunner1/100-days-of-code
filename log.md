@@ -22,4 +22,18 @@ to the plan so that I can change directions/programs on the fly, should somethin
 
 **Link to work:**
 
+### Round 1, Day 10-11: April 8 & 9, 2018
 
+**Today's Activities**: So there were a couple days in between day 9 and day 11, but I did make sure that if I wasn't able to actually 
+code each day, that I spent time reading articles. In fact, I spent a several hours researching how I should teach myself how to code.
+I'm currently doing the FCC front end developer, but I find myself bored and hard to stay focused on the tasks. I'm just starting the
+jquery portion of the and look to push through to the tribute page. I made it to the tribute page once, only to stall out like I said 
+in my Intro and Commentary. While I haven't read it yet, I bookmarked an article written by the man himself Quincy Larson of FCC that 
+said the first language you should learn is Javascript. So I find myself wanting to find a program that is Javascript. But I'm going 
+to try and stay on track with FCC. 
+
+I spent day 11 learning Git and setting up Git Bash, Visual Studio Code, and a few other developer tools on my Windows laptop. I did 
+read that I should be using Git to contribute to Github daily, so I wanted to have a setup where I wasn't just editing in Chrome on 
+Github. 
+
+**Thoughts:** I need to get an actual plan together. Jumping around and changing up the plan is causing me to get derailed. 
